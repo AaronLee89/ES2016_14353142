@@ -17,19 +17,23 @@
 
 #### - example 1
 此题需要在square.c里面修改，把 i=iXi 修改成 i=iXiXi 就行了；
+
 ![Alt text](./2.png)
 
 
 最后的结果如下：
+
 ![Alt text](./3.png)
 ![Alt text](./5.png)
 
 
 #### - example 2
 此题需要在XML文件里面，修改，看着长长的代码，可是，只需要我们动一个数字，就是把3改成2；
+
 ![Alt text](./7.png)
 
 最后的结果如下：
+
 ![Alt text](./1.png)
 ![Alt text](./6.png)
 
